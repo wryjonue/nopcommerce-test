@@ -1,0 +1,7 @@
+﻿{
+  "SystemName": "NewTestTheme",
+  "FriendlyName": "Test theme",
+  "SupportRTL": true,
+  "PreviewImageUrl": "~/Themes/NewTestTheme/preview.jpg",
+  "PreviewText": "The 'DefaultClean' site theme"
+}
